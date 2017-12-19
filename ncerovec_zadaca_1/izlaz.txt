@@ -1,0 +1,78 @@
+
+ -- Popis ronioca --
+Ivo (SSI / R2->R2:Advanced Adventure / 1981)
+Mato (CMAS / R2->R2:One Star Diver / 1982)
+Luka (NAUI / R1->R1:Scuba Diver / 1981)
+Nina (SSI / R3->R3:Diver Stress & Rescue / 1984)
+Vesna (CMAS / R2->R2:One Star Diver / 1997)
+Aldo (NAUI / R1->R1:Scuba Diver / 1990)
+ -- Popis urona --
+
+URON (Sun May 01 11:20:00 BST 2016)
+Maksimalna dubina: 20
+Broj ronioca: 4
+Ronilačke kombinacije:
+max 40m  => R1[10m->20m]:Luka - R3[40m->20m]:Nina
+max 30m  => R1[10m->20m]:Aldo - R2[30m->20m]:Vesna
+
+URON (Fri Jun 10 10:30:00 BST 2016)
+Maksimalna dubina: 40
+Broj ronioca: 3
+Ronilačke kombinacije:
+max 30m  => R2[30m->30m]:Vesna - R1[10m->20m]:Aldo - R2[30m->30m]:Mato
+
+URON (Fri Jun 10 14:30:00 BST 2016)
+Maksimalna dubina: 30
+Broj ronioca: 5
+Ronilačke kombinacije:
+max 30m  => R2[30m->30m]:Ivo - R2[30m->30m]:Vesna - R2[30m->30m]:Mato
+max 40m  => R1[10m->20m]:Aldo - R3[40m->30m]:Nina
+ -- Popis ronioca i urona za pojedinog ronioca --
+
+ --> Popis urona za ronioca: Ivo (SSI / R2->R2:Advanced Adventure / 1981)
+URON (Fri Jun 10 14:30:00 BST 2016): max 30m
+ -> Dubina ronioca: 30m
+ -> Kombinacija-partneri: max 30m  => R2[30m->30m]:Ivo - R2[30m->30m]:Vesna - R2[30m->30m]:Mato
+
+ --> Popis urona za ronioca: Mato (CMAS / R2->R2:One Star Diver / 1982)
+URON (Fri Jun 10 10:30:00 BST 2016): max 40m
+ -> Dubina ronioca: 30m
+ -> Kombinacija-partneri: max 30m  => R2[30m->30m]:Vesna - R1[10m->20m]:Aldo - R2[30m->30m]:Mato
+URON (Fri Jun 10 14:30:00 BST 2016): max 30m
+ -> Dubina ronioca: 30m
+ -> Kombinacija-partneri: max 30m  => R2[30m->30m]:Ivo - R2[30m->30m]:Vesna - R2[30m->30m]:Mato
+
+ --> Popis urona za ronioca: Luka (NAUI / R1->R1:Scuba Diver / 1981)
+URON (Sun May 01 11:20:00 BST 2016): max 20m
+ -> Dubina ronioca: 20m
+ -> Kombinacija-partneri: max 40m  => R1[10m->20m]:Luka - R3[40m->20m]:Nina
+
+ --> Popis urona za ronioca: Nina (SSI / R3->R3:Diver Stress & Rescue / 1984)
+URON (Sun May 01 11:20:00 BST 2016): max 20m
+ -> Dubina ronioca: 20m
+ -> Kombinacija-partneri: max 40m  => R1[10m->20m]:Luka - R3[40m->20m]:Nina
+URON (Fri Jun 10 14:30:00 BST 2016): max 30m
+ -> Dubina ronioca: 30m
+ -> Kombinacija-partneri: max 40m  => R1[10m->20m]:Aldo - R3[40m->30m]:Nina
+
+ --> Popis urona za ronioca: Vesna (CMAS / R2->R2:One Star Diver / 1997)
+URON (Sun May 01 11:20:00 BST 2016): max 20m
+ -> Dubina ronioca: 20m
+ -> Kombinacija-partneri: max 30m  => R1[10m->20m]:Aldo - R2[30m->20m]:Vesna
+URON (Fri Jun 10 10:30:00 BST 2016): max 40m
+ -> Dubina ronioca: 30m
+ -> Kombinacija-partneri: max 30m  => R2[30m->30m]:Vesna - R1[10m->20m]:Aldo - R2[30m->30m]:Mato
+URON (Fri Jun 10 14:30:00 BST 2016): max 30m
+ -> Dubina ronioca: 30m
+ -> Kombinacija-partneri: max 30m  => R2[30m->30m]:Ivo - R2[30m->30m]:Vesna - R2[30m->30m]:Mato
+
+ --> Popis urona za ronioca: Aldo (NAUI / R1->R1:Scuba Diver / 1990)
+URON (Sun May 01 11:20:00 BST 2016): max 20m
+ -> Dubina ronioca: 20m
+ -> Kombinacija-partneri: max 30m  => R1[10m->20m]:Aldo - R2[30m->20m]:Vesna
+URON (Fri Jun 10 10:30:00 BST 2016): max 40m
+ -> Dubina ronioca: 20m
+ -> Kombinacija-partneri: max 30m  => R2[30m->30m]:Vesna - R1[10m->20m]:Aldo - R2[30m->30m]:Mato
+URON (Fri Jun 10 14:30:00 BST 2016): max 30m
+ -> Dubina ronioca: 20m
+ -> Kombinacija-partneri: max 40m  => R1[10m->20m]:Aldo - R3[40m->30m]:Nina
